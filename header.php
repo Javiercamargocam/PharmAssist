@@ -10,16 +10,16 @@
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Raleway:500,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/normalizeeee.css">
     <link rel="stylesheet" href="css/skeletorrr.css">
-    <link rel="stylesheet" href="css/customiss.css">
+    <link rel="stylesheet" href="css/customiiss.css">
 </head>
 <body>
 
     <header id="header" class="header">
         <div class="container1">
             <ul class="navct">
-                <h5><li class="three columns "><a href="#"><img src="img/iniciar sesion.svg" width="20px" height="20px"> Iniciar secion</a>
+                <h5><li class="three columns "><a href="login.php"><img src="img/iniciar sesion.svg" width="20px" height="20px"> Iniciar secion</a>
                 </li>
-                <li class="three columns "><a href="#"><img src="img/registrarse.svg" width="20px" height="20px"> Registrarse</a>
+                <li class="three columns "><a href="registro.php"><img src="img/registrarse.svg" width="20px" height="20px"> Registrarse</a>
                 </li>
                 <li class="columns1">Linea de atencion sin costo: <a href="#"><img src="img/telefono.svg" width="20px" height="20px">744 123 4567</a>
                 </li></h5>
